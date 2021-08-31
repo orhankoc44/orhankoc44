@@ -14,7 +14,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/OrhanKoc-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/orhan-koc/)
-[![HackerRank Badge](https://img.shields.io/badge/orhankoc44-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.linkedin.com/in/orhan-koc/)
+[![HackerRank Badge](https://img.shields.io/badge/OrhanKoc-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.linkedin.com/in/orhan-koc/)
 
 ## :musical_keyboard: Skills
 
